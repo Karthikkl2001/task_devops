@@ -1,0 +1,55 @@
+1.git init
+
+2 git contig User. name "yourneme"
+
+3.git config User. email "emailid"
+
+4. git add file name
+   git add .
+   git add --all
+   git add -A 
+   git add *.ext
+
+5.git  Commit -M "Message"
+
+6.git remote add Origin URL
+
+7. git push Origin Master / Branchname
+
+8. git log
+   git log --onelie
+   git log -number
+   git log filename
+
+9.git status
+
+10.git clone URL
+
+11.git branch branchname
+
+12 git checkout branchname
+
+13.git Switch branchname
+
+14.git checkout branchname
+
+15.git branch
+   git branch --list
+
+16.git rebase branchname
+
+17.git cherry-pick CommitID
+
+18.git reflog
+
+19.git branch -d branchname
+
+20.git branch -D branchname
+
+21.git push origin -d branchneme
+
+22.git rm  -- Cached Filename
+
+23. git commit -am "Message"
+
+24. git branch -M Master

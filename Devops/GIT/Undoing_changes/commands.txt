@@ -1,0 +1,33 @@
+1. git config --edit
+
+2. git remote rm origin
+
+3. git checkout filename
+
+4. git checkout .
+
+5. git remote -v
+
+6. git reset filename
+
+7. git reset --soft
+
+8. git reset -- hard CommitID
+
+9. git reset head
+
+10. git commit -- ammend CommitID
+
+11. git diff b1 b2
+
+12. git revert -m commitID
+
+13. git revert filename
+
+14. git pull URL
+
+15. git fetch URL
+
+17 git pull Origin master
+
+16. git Commit filename -m "Message"

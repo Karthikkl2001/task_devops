@@ -1,0 +1,23 @@
+1.echo
+
+2.man
+
+3.whoami
+
+4.rm -r directoryname
+
+5.mkdir -p dir/subdir1/subdir2
+
+6.vi filename
+
+7.nano filename
+
+8.ls-l
+
+9.ls-a
+
+10.mv filename directorypath
+
+11.cp filename directorypath
+
+12.mv oldfilename newfilename

@@ -1,0 +1,24 @@
+1.mkdir directoryname
+  mkdir dir1 dir2 dir3
+
+2.cd
+
+3.cd ..
+
+4.touch filename
+  touch f1 f2 f3
+  touch filename{1..n}.extension
+
+5.pwd
+
+6.ls
+
+7.rmdir directoryname
+
+8.rm filename
+
+9.cat filename
+
+10.history
+
+11.clear
